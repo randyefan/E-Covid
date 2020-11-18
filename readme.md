@@ -4,6 +4,7 @@ build simple app using MVVM Architecture to check stats covid data in Indonesian
 
 ### The Api
 **https://data.covid19.go.id/public/api/prov.json**
+
 **https://data.covid19.go.id/public/api/update.json**
 
 **_The api provided by the government_**
